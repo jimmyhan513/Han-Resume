@@ -3,7 +3,7 @@ layout: cv
 title: Seokjin, Han's Resume
 ---
 # Seokjin, Han
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Majoring in accounting and studying data science as minor. Passionate about music, cooking, and traveling and likes living a very busy life. Trying best not to miss opportunities.
 
 <div id="webaddress">
 <a href="han20078@byui.edu">datascience@byui.edu</a>
